@@ -1,3 +1,3 @@
 ## Hello there
 
-I'm Ethan and I work on the Documentation team at GitHub.
+I'm Ethan and I write the docs at [Mintlify](https://mintlify.com).
